@@ -1,0 +1,5 @@
+git remote add origin https://github.com/alisahin07/todolist.git
+git add .
+git commit -m "react Todo list"
+git branch -M version2
+git push -u origin version2
